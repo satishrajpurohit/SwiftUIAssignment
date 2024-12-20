@@ -2,6 +2,10 @@
 
 ## This SwiftUI project provides a dynamic image carousel, a list of items, a search feature, and a floating action button (FAB) with a bottom sheet for statistics. The app is designed to handle any number of items and images dynamically, with a built-in feature to filter the list through a search bar and visualize statistics in a bottom sheet.
 
+## Xcode Compatibility
+
+- This project was developed using **Xcode 16** (or the latest stable release) and is **recommended** to be opened with **Xcode 16** or later for optimal performance.
+
 ## Key Features
 - Image Carousel: A horizontally swipeable carousel that updates the list based on the selected image.
 - Dynamic List: Scrollable list with real-time updates based on the images in the carousel.
